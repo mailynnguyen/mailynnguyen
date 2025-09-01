@@ -40,7 +40,7 @@ Developed for the Aviat'r Club at UCR through ACM @ UCR
 
 ## 📫 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/mailyn-nguyen/) | Email: (mailyn.ngu@gmail.com)[mailto:mailyn.ngu@gmail.com]
+[LinkedIn](https://www.linkedin.com/in/mailyn-nguyen/) | Email: mailyn.ngu@gmail.com
 <!--
 **mailynnguyen/mailynnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
