@@ -25,16 +25,16 @@ Entry-level and New-grad full-time positions - especially in full-stack and back
 Developed for the Aviat'r Club at UCR through ACM @ UCR
 - Led a team of 8 members to build UI components, such as event modals and calendar components using Google Calendar API
 - Facilitated communication between designers and club representatives to translate ideas into technical features
-- Led weekly workshops introducing React.js, mobile responsive development, and Framer Motion animations \\
+- Led weekly workshops introducing React.js, mobile responsive development, and Framer Motion animations \
   [View project →](https://github.com/acm-ucr/aviatr-website)
   
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:** JavaScript, TypeScript, HTML, CSS, C++, Python, Java \\
-**Web:** React.js, Next.js, React Native, Tailwind CSS \\
-**Tools:** Figma, Git/GitHub, Firebase \\
+**Languages:** JavaScript, TypeScript, HTML, CSS, C++, Python, Java \
+**Web:** React.js, Next.js, React Native, Tailwind CSS \
+**Tools:** Figma, Git/GitHub, Firebase \
 
 ---
 
