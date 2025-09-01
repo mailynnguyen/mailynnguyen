@@ -8,8 +8,8 @@ I'm entering my last quarter at UC Riverside, and am excited for new opportuniti
 
 My main interests include backend and full-stack development.
 
-- 📚 At ACM @ UCR, I led teams of 8-10 members to build websites for various clubs on campus using React.js, Next.js, and TailwindCSS.
-- 🌐 Through my internship at Headway Technologies, Inc., utilizing Figma, React.js, Next.js, and TailwindCSS as well, I redesigned and developed the company website towards a more modern, dynamic, and mobile responsive look.
+- 📚 At ACM @ UCR, I led teams of 8-10 members to build websites for various clubs on campus using React.js, Next.js, and Tailwind CSS.
+- 🌐 Through my internship at Headway Technologies, Inc., utilizing Figma, React.js, Next.js, and Tailwind CSS as well, I redesigned and developed the company website towards a more modern, dynamic, and mobile responsive look.
 
 ---
 
@@ -26,8 +26,21 @@ Developed for the Aviat'r Club at UCR through ACM @ UCR
 - Led a team of 8 members to build UI components, such as event modals and calendar components using Google Calendar API
 - Facilitated communication between designers and club representatives to translate ideas into technical features
 - Led weekly workshops introducing React.js, mobile responsive development, and Framer Motion animations
-- 
+  [View project ->](https://github.com/acm-ucr/aviatr-website)
+  
+---
 
+## 🛠 Tech Stack
+
+**Languages:** JavaScript, TypeScript, HTML, CSS, C++, Python, Java
+**Web:** React.js, Next.js, React Native, Tailwind CSS
+**Tools:** Figma, Git/GitHub, Firebase
+
+---
+
+## 📫 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/mailyn-nguyen/) | Email: (mailyn.ngu@gmail.com)[mailto:mailyn.ngu@gmail.com]
 <!--
 **mailynnguyen/mailynnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
