@@ -35,6 +35,7 @@ Developed for the Aviat'r Club at UCR through ACM @ UCR
 **Languages:** JavaScript, TypeScript, HTML, CSS, C++, Python, Java \
 **Web:** React.js, Next.js, React Native, Tailwind CSS \
 **Tools:** Figma, Git/GitHub, Firebase \
+**Databases:** MySQL, PostgreSQL
 
 ---
 
