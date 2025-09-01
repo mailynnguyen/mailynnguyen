@@ -4,7 +4,9 @@ I'm entering my last quarter at UC Riversid, and throughout my time here, I have
 
 ---
 
-### 🔭 Interests
+## 🔭 Interests
+
+
 <!--
 **mailynnguyen/mailynnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
