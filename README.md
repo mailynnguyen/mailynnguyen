@@ -25,7 +25,8 @@ Entry-level and New-grad full-time positions - especially in full-stack and back
 Developed for the Aviat'r Club at UCR through ACM @ UCR
 - Led a team of 8 members to build UI components, such as event modals and calendar components using Google Calendar API
 - Facilitated communication between designers and club representatives to translate ideas into technical features
-  
+- Led weekly workshops introducing React.js, mobile responsive development, and Framer Motion animations
+- 
 
 <!--
 **mailynnguyen/mailynnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
