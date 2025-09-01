@@ -26,21 +26,28 @@ Developed for the Aviat'r Club at UCR through ACM @ UCR
 - Led a team of 8 members to build UI components, such as event modals and calendar components using Google Calendar API
 - Facilitated communication between designers and club representatives to translate ideas into technical features
 - Led weekly workshops introducing React.js, mobile responsive development, and Framer Motion animations
-  [View project ->](https://github.com/acm-ucr/aviatr-website)
+  [View project →](https://github.com/acm-ucr/aviatr-website)
   
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:** JavaScript, TypeScript, HTML, CSS, C++, Python, Java
-**Web:** React.js, Next.js, React Native, Tailwind CSS
-**Tools:** Figma, Git/GitHub, Firebase
+**Languages:** JavaScript, TypeScript, HTML, CSS, C++, Python, Java \\
+**Web:** React.js, Next.js, React Native, Tailwind CSS \\
+**Tools:** Figma, Git/GitHub, Firebase \\
 
 ---
 
 ## 📫 Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/mailyn-nguyen/) | Email: mailyn.ngu@gmail.com
+
+---
+
+## ✨ Fun Fact
+
+In my free time, I enjoy watching movies, going out to eat, and doing any kind of activity! I enjoy trying new things.
+
 <!--
 **mailynnguyen/mailynnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
