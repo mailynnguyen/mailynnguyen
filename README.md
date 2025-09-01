@@ -1,5 +1,6 @@
-## Hi! I'm Mailyn 👋
+## Hi there! I'm Mailyn 👋
 
+I'm entering my last quarter at UC Riversid, and throughout my time here, I have gained experience in and found a passion for full-stack development. I also enjoy learning and exploring new technologies, with a special interest in backend and full-stack development.
 <!--
 **mailynnguyen/mailynnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
