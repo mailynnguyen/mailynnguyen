@@ -8,7 +8,8 @@ I'm entering my last quarter at UC Riverside, and am excited for new opportuniti
 
 My main interests include backend and full-stack development.
 
-- 
+- At ACM @ UCR, I led teams of 8-10 members to build websites for various clubs on campus using React.js, Next.js, and TailwinndCSS.
+- Through my internship at Headway Technologies, Inc., utilizing Figma, React.js, Next.js, and TailwindCSS as well, I redesigned and developed the company website towoards a more modern, dynamic, and mobile responsive look.
 
 <!--
 **mailynnguyen/mailynnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
