@@ -1,6 +1,6 @@
 ## Hi there! I'm Mailyn 👋
 
-I'm entering my last quarter at UC Riverside, and am excited for new opportunities! I have experience with full-stack development, and enjoy learning new technologies. I enjoy collaborating in teams to build applications that are user-centered and impactful.
+I'm just recently graduated from UCR and am excited for new opportunities! I have experience with full-stack development, and enjoy learning new technologies. I enjoy collaborating in teams to build applications that are user-centered and impactful.
 
 ---
 
